@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mink Virparia</h1>
-<h3 align="center">A Machine Learning Engineer from India</h3>
+<h1 align="center">Hola 👋, I'm Mink Virparia</h1>
+<h3 align="center">A Enthusiastic Machine Learning Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/44423972/259928221-da4f5a03-ee14-43a3-a0ea-e86f27ec274e.gif">
 
