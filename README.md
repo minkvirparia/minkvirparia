@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Image Segmentation**
+- 🔭 I’m currently working on **Large Language Models (LLM)**
 
-- 🌱 I’m currently learning **Segment-anything model**
+- 🌱 I’m currently learning **Transformers and Langchain**
   
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Computer Vision, NLP**
 
