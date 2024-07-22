@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Computer Vision, NLP**
 
-- 📫 How to reach me **minkvirparia9@gmail.com**
+- 📫 How to reach me **minkvirparia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
